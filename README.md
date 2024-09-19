@@ -23,12 +23,12 @@ This is a simple Node.js API using Express and MongoDB to manage a list of healt
 ## Installation
 
 1. Clone the repository:
-     git clone https://github.com/yourusername/healthcare-service-api.git
-     cd healthcare-service-api
+     - git clone https://github.com/yourusername/healthcare-service-api.git
+     - cd healthcare-service-api
 2. Install dependencies:
-     npm i
+     - npm i
 3. Run the server:
-     nodemon index.js
+     - nodemon index.js
 
 
 ## API Endpoints  :   http://localhost:5000/
