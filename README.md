@@ -34,10 +34,10 @@ This is a simple Node.js API using Express and MongoDB to manage a list of healt
 ## API Endpoints  :   http://localhost:5000/
 
   Method	            Endpoint	                      Description
-  POST	              /api/services	                  Add a new healthcare service
-  GET	                /api/services	                  Get a list of all services
-  PUT	                /api/services/:id	              Update a service by ID
-  DELETE	            /api/services/:id	              Delete a service by ID
+-  POST	              /api/services	                  Add a new healthcare service
+-  GET	                /api/services	                  Get a list of all services
+-  PUT	                /api/services/:id	              Update a service by ID
+-  DELETE	            /api/services/:id	              Delete a service by ID
 
 
 ## Testing the API  :    You can test the API using tools like Postman. 
